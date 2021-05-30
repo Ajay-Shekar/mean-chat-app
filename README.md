@@ -5,7 +5,7 @@
 > A small chat application built using the **MEAN** stack  
 > Warning: this project was built a few years back so it uses old versions of libraries and does not guarantee security. Also it might not follow current best practices 🤔
 
-- Feel free to try the live demo at http://petrub.com/chat-app
+- Feel free to try the live demo at 
 
 # Features
 
