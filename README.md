@@ -1,12 +1,10 @@
-![Preview](./preview/desktop-preview.png)
+
 
 # MEAN Chat App
 
 > A small chat application built using the **MEAN** stack  
 > Warning: this project was built a few years back so it uses old versions of libraries and does not guarantee security. Also it might not follow current best practices 🤔
-
-- Feel free to try the live demo at 
-
+> 
 # Features
 
 - Register and authenticate users using JSON web tokens
@@ -18,10 +16,6 @@
 - Notifications for messages on background conversations
 
 - Have a pleasant UI/UX built to look awesome from mobile to desktop
-
-<p align="center">
-  <img src="./preview/chat-app-preview.gif" alt="Desktop Preview"/>
-</p>
 
 # Getting started
 
